@@ -1,0 +1,134 @@
+
+body{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  background-color: #FFFFFF
+}
+.desktop-1 {
+  padding: 30px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.unsplashncq2sgu-vlgo {
+  width: 1064px;
+  height: 689px;
+  background-size: 100% 100%;
+  background-position: center;
+  background: url("https://static.overlay-tech.com/assets/71ce83fc-0222-4d06-9509-18ccf10f60e0.png"),
+    rgba(196, 196, 196, 1);
+  margin-bottom: 37px;
+}
+.group-70 {
+  padding: 0 0 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.line {
+  width: 1440px;
+  margin-bottom: 60px;
+}
+.frame-71 {
+  padding: 0 118.25px 0 0;
+  display: flex;
+  align-items: flex-start;
+}
+.group-62 {
+  margin-right: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.plantku {
+  font-family: "Poppins";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #156963 ;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+  letter-spacing: 1.2px;
+}
+.group-58 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.plantku-house {
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  color:#000000;
+  margin-bottom: 10px;
+}
+.jl-laksda-adisucipto-no-51-demangan-k {
+  max-width: 282px;
+  font-family: "Work Sans";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+
+}
+.perusahaan {
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  color:#000000 ;
+  margin-bottom: 20px;
+}
+.group-59 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tentang-kami {
+  font-family: "Work Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+
+}
+.tentang-kami:not(:last-of-type) {
+  margin-bottom: 14px;
+}
+.frame-61 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-61:not(:last-of-type) {
+  margin-right: 80px;
+}
+.berlangganan-email-kami {
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+
+  margin-bottom: 14px;
+}
+.group-69 {
+  margin-bottom: 14px;
+  border-radius: 2px;
+  padding: 7px 86px 7px 12px;
+  display: flex;
+  align-items: center;
+
+}
+.masukan-alamat-email {
+  font-family: "Work Sans";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+
+  opacity: 0.5;
+}
+.btn {
+  background-color: #156963;
+  font-size: 14px;
+  border-radius: 10px;
+  padding: 4px 12px;
+}
